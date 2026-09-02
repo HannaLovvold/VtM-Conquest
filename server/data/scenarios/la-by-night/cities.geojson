@@ -1,0 +1,216 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Bradbury Building",
+    "tier": 4,
+    "population": 100,
+    "capital": "primary"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2495,
+     34.0475
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Hollywood Sign",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3215,
+     34.134
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Hollywood Bowl",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3395,
+     34.112
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Exposition Park",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2895,
+     34.0195
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Port of Long Beach",
+    "tier": 4,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1995,
+     33.7545
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Wilshire Center",
+    "tier": 2,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3095,
+     34.0455
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Playa Vista Tech Campus",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4255,
+     33.9765
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Griffith Observatory",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.3005,
+     34.1185
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Beverly Hills Hotel",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4455,
+     34.0795
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Old Pasadena",
+    "tier": 2,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1445,
+     34.1455
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Mariachi Plaza",
+    "tier": 2,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1955,
+     34.0335
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Watts Towers",
+    "tier": 2,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2445,
+     33.9395
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Acton Ranches",
+    "tier": 1,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1855,
+     34.2795
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "San Pedro Harbour",
+    "tier": 2,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.2855,
+     33.8455
+    ]
+   }
+  }
+ ]
+}

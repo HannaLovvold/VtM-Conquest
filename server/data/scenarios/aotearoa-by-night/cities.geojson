@@ -1,0 +1,216 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Parnell Seat",
+    "tier": 4,
+    "population": 100,
+    "capital": "primary"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.7755,
+     -36.8655
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Sky Tower",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.7555,
+     -36.8455
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Auckland Domain",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.7555,
+     -36.8955
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Eden Park",
+    "tier": 2,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.7355,
+     -36.9155
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Henderson Vineyards",
+    "tier": 2,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.6355,
+     -36.8555
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Takapuna Seafront",
+    "tier": 2,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.7755,
+     -36.6955
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "\u014ctara Markets",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.8555,
+     -37.0455
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Hamilton Gardens",
+    "tier": 2,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     175.2555,
+     -37.7855
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Lake Taup\u014d",
+    "tier": 1,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     175.8955,
+     -38.7055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Beehive",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.7755,
+     -41.2755
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Te Papa Tongarewa",
+    "tier": 2,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.7755,
+     -41.3155
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Newtown Community Hall",
+    "tier": 2,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.6755,
+     -41.3455
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Miramar Film Quarter",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.9055,
+     -41.3355
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Karori Sanctuary",
+    "tier": 1,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.5555,
+     -41.3055
+    ]
+   }
+  }
+ ]
+}

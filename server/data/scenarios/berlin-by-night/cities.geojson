@@ -1,0 +1,216 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Council Safehouse",
+    "tier": 4,
+    "population": 600000,
+    "capital": "primary"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4095,
+     52.5225
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Berghain",
+    "tier": 4,
+    "population": 550000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4439,
+     52.5111
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Carna Library",
+    "tier": 4,
+    "population": 480000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4055,
+     52.4655
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Tresor",
+    "tier": 3,
+    "population": 520000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4225,
+     52.5055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Humboldt University",
+    "tier": 3,
+    "population": 540000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.3935,
+     52.518
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Charlottenburg Palace",
+    "tier": 3,
+    "population": 420000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.3395,
+     52.5205
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Şehitlik Mosque",
+    "tier": 2,
+    "population": 460000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4475,
+     52.4865
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Weserkiez",
+    "tier": 2,
+    "population": 440000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4325,
+     52.4775
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Kulturbrauerei",
+    "tier": 2,
+    "population": 380000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4125,
+     52.541
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Sowjetisches Ehrenmal Treptower Park",
+    "tier": 2,
+    "population": 400000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.4705,
+     52.4885
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Nollendorfplatz",
+    "tier": 2,
+    "population": 360000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.357,
+     52.4995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Spandau Citadel",
+    "tier": 1,
+    "population": 240000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.2015,
+     52.5355
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Köpenick Old Town",
+    "tier": 1,
+    "population": 180000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.5755,
+     52.4435
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Tegel Harbour",
+    "tier": 1,
+    "population": 160000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.285,
+     52.5585
+    ]
+   }
+  }
+ ]
+}

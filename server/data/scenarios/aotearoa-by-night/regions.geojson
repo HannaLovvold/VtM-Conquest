@@ -1,0 +1,552 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ak_northshore",
+    "name": "North Shore",
+    "owner": "Auckland Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       174.65,
+       -36.72
+      ],
+      [
+       174.85,
+       -36.72
+      ],
+      [
+       174.85,
+       -36.6
+      ],
+      [
+       174.65,
+       -36.6
+      ],
+      [
+       174.65,
+       -36.72
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ak_cbd",
+    "name": "Auckland CBD & Waterfront",
+    "owner": "Auckland Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       174.65,
+       -36.88
+      ],
+      [
+       174.85,
+       -36.88
+      ],
+      [
+       174.85,
+       -36.72
+      ],
+      [
+       174.65,
+       -36.72
+      ],
+      [
+       174.65,
+       -36.88
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ak_west",
+    "name": "West Auckland",
+    "owner": "Auckland Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       174.55,
+       -36.88
+      ],
+      [
+       174.65,
+       -36.88
+      ],
+      [
+       174.65,
+       -36.72
+      ],
+      [
+       174.55,
+       -36.72
+      ],
+      [
+       174.55,
+       -36.88
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ak_waitakere",
+    "name": "The Wait\u0101kere Ranges",
+    "owner": "Wait\u0101kere Sept",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       174.38,
+       -36.92
+      ],
+      [
+       174.55,
+       -36.92
+      ],
+      [
+       174.55,
+       -36.68
+      ],
+      [
+       174.38,
+       -36.68
+      ],
+      [
+       174.38,
+       -36.92
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ak_isthmus",
+    "name": "Auckland Isthmus",
+    "owner": "Auckland Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       174.65,
+       -37.0
+      ],
+      [
+       174.85,
+       -37.0
+      ],
+      [
+       174.85,
+       -36.88
+      ],
+      [
+       174.65,
+       -36.88
+      ],
+      [
+       174.65,
+       -37.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "ak_south",
+    "name": "South Auckland & Manukau",
+    "owner": "Auckland Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       174.65,
+       -37.16
+      ],
+      [
+       174.95,
+       -37.16
+      ],
+      [
+       174.95,
+       -37.0
+      ],
+      [
+       174.65,
+       -37.0
+      ],
+      [
+       174.65,
+       -37.16
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nz_waikato",
+    "name": "The Waikato",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       174.3,
+       -38.4
+      ],
+      [
+       175.7,
+       -38.4
+      ],
+      [
+       175.7,
+       -37.25
+      ],
+      [
+       174.3,
+       -37.25
+      ],
+      [
+       174.3,
+       -38.4
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nz_plateau",
+    "name": "Taup\u014d & the Volcanic Plateau",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       174.3,
+       -40.6
+      ],
+      [
+       176.2,
+       -40.6
+      ],
+      [
+       176.2,
+       -38.4
+      ],
+      [
+       174.3,
+       -38.4
+      ],
+      [
+       174.3,
+       -40.6
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "wn_karori",
+    "name": "Karori & the Western Hills",
+    "owner": "Wellington Coordination Council",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Auckland Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       174.5,
+       -41.22
+      ],
+      [
+       174.62,
+       -41.22
+      ],
+      [
+       174.62,
+       -41.4
+      ],
+      [
+       174.5,
+       -41.4
+      ],
+      [
+       174.5,
+       -41.22
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "wn_newtown",
+    "name": "Newtown & Mount Cook",
+    "owner": "Wellington Coordination Council",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Auckland Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       174.62,
+       -41.3
+      ],
+      [
+       174.72,
+       -41.3
+      ],
+      [
+       174.72,
+       -41.42
+      ],
+      [
+       174.62,
+       -41.42
+      ],
+      [
+       174.62,
+       -41.3
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "wn_cbd",
+    "name": "Wellington CBD & the Lambton Quarter",
+    "owner": "Wellington Coordination Council",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Auckland Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       174.72,
+       -41.18
+      ],
+      [
+       174.84,
+       -41.18
+      ],
+      [
+       174.84,
+       -41.3
+      ],
+      [
+       174.72,
+       -41.3
+      ],
+      [
+       174.72,
+       -41.18
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "wn_tearo",
+    "name": "Te Aro & Mount Victoria",
+    "owner": "Wellington Coordination Council",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Auckland Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       174.72,
+       -41.3
+      ],
+      [
+       174.88,
+       -41.3
+      ],
+      [
+       174.88,
+       -41.42
+      ],
+      [
+       174.72,
+       -41.42
+      ],
+      [
+       174.72,
+       -41.3
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "wn_eastern",
+    "name": "The Eastern Suburbs",
+    "owner": "Wellington Coordination Council",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Auckland Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       174.88,
+       -41.28
+      ],
+      [
+       175.04,
+       -41.28
+      ],
+      [
+       175.04,
+       -41.42
+      ],
+      [
+       174.88,
+       -41.42
+      ],
+      [
+       174.88,
+       -41.28
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "wn_remutaka",
+    "name": "The Remutaka & Tararua Ranges",
+    "owner": "Remutaka Sept",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       175.04,
+       -41.1
+      ],
+      [
+       175.55,
+       -41.1
+      ],
+      [
+       175.55,
+       -41.6
+      ],
+      [
+       175.04,
+       -41.6
+      ],
+      [
+       175.04,
+       -41.1
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

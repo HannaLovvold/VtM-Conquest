@@ -1,0 +1,516 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "brb_moreton",
+    "name": "Moreton Bay & the Islands",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Continental Sept Council"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       153.22,
+       -26.98
+      ],
+      [
+       153.55,
+       -26.98
+      ],
+      [
+       153.55,
+       -27.4
+      ],
+      [
+       153.22,
+       -27.4
+      ],
+      [
+       153.22,
+       -26.98
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "brb_forestpark",
+    "name": "Brisbane Forest Park & the D'Aguilar Range",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Continental Sept Council"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       152.55,
+       -27.0
+      ],
+      [
+       153.0,
+       -27.0
+      ],
+      [
+       153.0,
+       -27.4
+      ],
+      [
+       152.55,
+       -27.4
+      ],
+      [
+       152.55,
+       -27.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "brb_north",
+    "name": "Chermside & the Northern Suburbs",
+    "owner": "Brisbane Sabbat",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       153.0,
+       -27.3
+      ],
+      [
+       153.12,
+       -27.3
+      ],
+      [
+       153.12,
+       -27.447
+      ],
+      [
+       153.0,
+       -27.447
+      ],
+      [
+       153.0,
+       -27.3
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "brb_bayside",
+    "name": "Wynnum, Manly & the Bayside",
+    "owner": "Brisbane Sabbat",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       153.12,
+       -27.3
+      ],
+      [
+       153.22,
+       -27.3
+      ],
+      [
+       153.22,
+       -27.525
+      ],
+      [
+       153.12,
+       -27.525
+      ],
+      [
+       153.12,
+       -27.3
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "brb_valley",
+    "name": "Fortitude Valley & Chinatown",
+    "owner": "Brisbane Sabbat",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       153.03,
+       -27.447
+      ],
+      [
+       153.07,
+       -27.447
+      ],
+      [
+       153.07,
+       -27.474
+      ],
+      [
+       153.03,
+       -27.474
+      ],
+      [
+       153.03,
+       -27.447
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "brb_newfarm",
+    "name": "New Farm & the Inner Riverside",
+    "owner": "Brisbane Sabbat",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       153.03,
+       -27.474
+      ],
+      [
+       153.07,
+       -27.474
+      ],
+      [
+       153.07,
+       -27.52
+      ],
+      [
+       153.03,
+       -27.52
+      ],
+      [
+       153.03,
+       -27.474
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "brb_cbd",
+    "name": "Brisbane CBD & King George Square",
+    "owner": "Brisbane Sabbat",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       153.0,
+       -27.447
+      ],
+      [
+       153.03,
+       -27.447
+      ],
+      [
+       153.03,
+       -27.487
+      ],
+      [
+       153.0,
+       -27.487
+      ],
+      [
+       153.0,
+       -27.447
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "brb_westend",
+    "name": "West End & the Chantry",
+    "owner": "Brisbane Sabbat",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       153.0,
+       -27.487
+      ],
+      [
+       153.02,
+       -27.487
+      ],
+      [
+       153.02,
+       -27.525
+      ],
+      [
+       153.0,
+       -27.525
+      ],
+      [
+       153.0,
+       -27.487
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "brb_southbank",
+    "name": "South Bank Cultural Precinct",
+    "owner": "Brisbane Sabbat",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       153.02,
+       -27.487
+      ],
+      [
+       153.03,
+       -27.487
+      ],
+      [
+       153.03,
+       -27.525
+      ],
+      [
+       153.02,
+       -27.525
+      ],
+      [
+       153.02,
+       -27.487
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "brb_innerwest",
+    "name": "Indooroopilly & the Inner West",
+    "owner": "Brisbane Sabbat",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       152.95,
+       -27.47
+      ],
+      [
+       153.0,
+       -27.47
+      ],
+      [
+       153.0,
+       -27.53
+      ],
+      [
+       152.95,
+       -27.53
+      ],
+      [
+       152.95,
+       -27.47
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "brb_coottha",
+    "name": "Mount Coot-tha & the Bushland Fringe",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Continental Sept Council"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       152.9,
+       -27.4
+      ],
+      [
+       153.0,
+       -27.4
+      ],
+      [
+       153.0,
+       -27.47
+      ],
+      [
+       152.95,
+       -27.47
+      ],
+      [
+       152.95,
+       -27.53
+      ],
+      [
+       152.9,
+       -27.53
+      ],
+      [
+       152.9,
+       -27.4
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "brb_lockyer",
+    "name": "Ipswich & the Lockyer Valley",
+    "owner": "Brisbane Sabbat",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       152.55,
+       -27.53
+      ],
+      [
+       153.0,
+       -27.53
+      ],
+      [
+       153.0,
+       -27.85
+      ],
+      [
+       152.55,
+       -27.85
+      ],
+      [
+       152.55,
+       -27.53
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "brb_south",
+    "name": "Logan & the Southern Corridor",
+    "owner": "Brisbane Sabbat",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       153.0,
+       -27.525
+      ],
+      [
+       153.3,
+       -27.525
+      ],
+      [
+       153.3,
+       -27.875
+      ],
+      [
+       153.0,
+       -27.875
+      ],
+      [
+       153.0,
+       -27.525
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

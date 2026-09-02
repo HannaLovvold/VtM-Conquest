@@ -1,0 +1,470 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "adel_barossa",
+    "name": "The Barossa & the Vineyard Country",
+    "owner": "Adelaide Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       138.8,
+       -34.42
+      ],
+      [
+       139.05,
+       -34.42
+      ],
+      [
+       139.05,
+       -34.75
+      ],
+      [
+       138.8,
+       -34.75
+      ],
+      [
+       138.8,
+       -34.42
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "adel_northplains",
+    "name": "Salisbury & the Northern Plains",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       138.45,
+       -34.42
+      ],
+      [
+       138.8,
+       -34.42
+      ],
+      [
+       138.8,
+       -34.84
+      ],
+      [
+       138.45,
+       -34.84
+      ],
+      [
+       138.45,
+       -34.42
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "adel_port",
+    "name": "Port Adelaide & the Semaphore Coast",
+    "owner": "Adelaide Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Adelaide Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       138.45,
+       -34.84
+      ],
+      [
+       138.54,
+       -34.84
+      ],
+      [
+       138.54,
+       -34.96
+      ],
+      [
+       138.45,
+       -34.96
+      ],
+      [
+       138.45,
+       -34.84
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "adel_west",
+    "name": "The Western Suburbs",
+    "owner": "Adelaide Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       138.54,
+       -34.84
+      ],
+      [
+       138.58,
+       -34.84
+      ],
+      [
+       138.58,
+       -34.96
+      ],
+      [
+       138.54,
+       -34.96
+      ],
+      [
+       138.54,
+       -34.84
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "adel_east",
+    "name": "Norwood, Burnside & the Eastern Suburbs",
+    "owner": "Adelaide Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       138.62,
+       -34.88
+      ],
+      [
+       138.7,
+       -34.88
+      ],
+      [
+       138.7,
+       -34.96
+      ],
+      [
+       138.62,
+       -34.96
+      ],
+      [
+       138.62,
+       -34.88
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "adel_north",
+    "name": "North Adelaide & the Torrens",
+    "owner": "Adelaide Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       138.58,
+       -34.88
+      ],
+      [
+       138.62,
+       -34.88
+      ],
+      [
+       138.62,
+       -34.912
+      ],
+      [
+       138.58,
+       -34.912
+      ],
+      [
+       138.58,
+       -34.88
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "adel_cbd",
+    "name": "Adelaide CBD & North Terrace",
+    "owner": "Adelaide Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       138.58,
+       -34.912
+      ],
+      [
+       138.62,
+       -34.912
+      ],
+      [
+       138.62,
+       -34.95
+      ],
+      [
+       138.58,
+       -34.95
+      ],
+      [
+       138.58,
+       -34.912
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "adel_coast",
+    "name": "Glenelg & the Southern Beaches",
+    "owner": "Adelaide Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Adelaide Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       138.45,
+       -34.96
+      ],
+      [
+       138.56,
+       -34.96
+      ],
+      [
+       138.56,
+       -35.0
+      ],
+      [
+       138.45,
+       -35.0
+      ],
+      [
+       138.45,
+       -34.96
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "adel_south",
+    "name": "Marion, Noarlunga & the South",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       138.45,
+       -35.0
+      ],
+      [
+       138.68,
+       -35.0
+      ],
+      [
+       138.68,
+       -35.3
+      ],
+      [
+       138.45,
+       -35.3
+      ],
+      [
+       138.45,
+       -35.0
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "adel_hills",
+    "name": "The Adelaide Hills & Mount Lofty",
+    "owner": "Continental Sept Council",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       138.68,
+       -34.96
+      ],
+      [
+       138.8,
+       -34.96
+      ],
+      [
+       138.8,
+       -35.05
+      ],
+      [
+       138.68,
+       -35.05
+      ],
+      [
+       138.68,
+       -34.96
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "adel_mtbarker",
+    "name": "Hahndorf, Mount Barker & the Wine Valleys",
+    "owner": "Adelaide Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Continental Sept Council"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       138.8,
+       -34.96
+      ],
+      [
+       139.05,
+       -34.96
+      ],
+      [
+       139.05,
+       -35.15
+      ],
+      [
+       138.8,
+       -35.15
+      ],
+      [
+       138.8,
+       -34.96
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "adel_belair",
+    "name": "Belair & the Southern Foothills",
+    "owner": "Continental Sept Council",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       138.68,
+       -35.05
+      ],
+      [
+       138.78,
+       -35.05
+      ],
+      [
+       138.78,
+       -35.2
+      ],
+      [
+       138.68,
+       -35.2
+      ],
+      [
+       138.68,
+       -35.05
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

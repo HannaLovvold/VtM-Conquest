@@ -1,0 +1,52 @@
+{
+  "customRegions": true,
+  "customCities": true,
+  "basemap": "imagery",
+  "mapView": { "longitude": -87.63, "latitude": 41.87, "zoom": 10.6 },
+  "ownerSchema": 2,
+  "author": "VtM Conquest",
+  "mapCredit": "Chicago by Night — Vampire: The Masquerade fan scenario built on the Open Historia engine (MIT). District geometry is a hand-authored approximation.",
+  "ownerCodes": ["Chicago Camarilla"],
+  "allowedUnitTypes": ["coterie", "hounds", "proxies", "retainers", "sorcery", "havenguard"],
+  "polityOverrides": {
+    "Chicago Camarilla": {
+      "name": "Chicago Camarilla",
+      "color": "#6e1423",
+      "aliases": ["The Camarilla Court of Chicago", "Maxwell's Court"],
+      "note": "The Kindred court of Chicago, held by Prince Maxwell Holloway-VanCort (Ventrue, childe of tribal prince... a Prince who keeps praxis through charm, ledgers and fear in equal measure). Court at the Palmer House Elysium. Officers: Seneschal Lukas Yates (loyal, ambitious, one step from hungering for praxis himself), Harpy Cordelia Braddock (keeps the ledger of boons and slights; her word makes and unmakes reputations), Sheriff Liang 'Lin' Xiu (enforcer; answers only the Prince), Keeper of Elysium Vittorio Marchetti (fastidious, bitter over the unclaimed Scourge post). Primogen: a Ventrue, a Toreador, a Malkavian and a Nosferatu elder who loathe each other nearly as much as they loathe outside rule. The Scourge office sits UNFILLED since the last one was staked — a standing insult and an open wound. Secret: Maxwell feels the Beckoning pulling him toward the Middle East and hides it; every week it costs him a little more control."
+    },
+    "Chicago Anarch Movement": {
+      "name": "Chicago Anarch Movement",
+      "color": "#c2481f",
+      "aliases": ["The Anarch Movement", "The Southside Barons"],
+      "note": "The Free States' heirs: an unfinished revolution holding the south and west sides, led by a Baron Council of three. Baron Solomon 'Sol' Ash (Brujah, idealist, rare clear head; keeps his haven at 19th & Damen and the Glass Door feeding club neutral ground). Baron Demetrius 'Dem' Carter (Brujah, street general; believes the Treaty is a leash and the city belongs to those who bleed for it). Baron Rafaela 'Rafa' Ortiz (Ministry, pragmatist; counts votes and favors, would trade with the Camarilla before another war). Their lattice of mortals is held together by a network of contingency cards — twenty-three signed card-blanks Sol seeded across mortal Chicago, each a promise, a bribe, or a knife for the night everything burns. Open wound: the Thin-Blood protection debate — Dem wants them expelled as walking Masquerade breaches; Sol refuses to feed children to the fire. The Treaty renewal is their one shot to renegotiate."
+    },
+    "Hecata Family": {
+      "name": "Hecata Family",
+      "color": "#8d7fa8",
+      "aliases": ["The Family", "Bridgeport Hecata", "The Necromancers"],
+      "note": "The Clan of Death's Chicago branch, holding Bridgeport and Little Italy like an old country parish. Matriarch Donna Lucia Giovanni-Ferri (Hecata, ancient courtesy over a mind like a ledger of the dead; her word is family law). The Family runs funerals, unions and debts through Costa Funeral Services, and its three branches — the money branch, the body branch, and the soul branch — answer to her alone. Open wound: the murder of Maria Costa-Velazquez, found drained and desecrated under Camarilla's watch; the Family has proof enough to be certain the killer wore a Camarilla badge, and Donna Lucia's grief has curdled into vendetta. Worse: word from Sicily says Ambrogia — elder Hecata, impatient, hungry, Donna Lucia's rival — is inbound to 'help' with the feud, and her help has never once been survivable for the host city."
+    }
+  },
+  "regionOwnershipOverrides": {
+    "chi_loop": "",
+    "chi_goldcoast": "Chicago Camarilla",
+    "chi_rivernorth": "Chicago Camarilla",
+    "chi_hydepark": "Chicago Camarilla",
+    "chi_pilsen": "Chicago Anarch Movement",
+    "chi_littlevillage": "Chicago Anarch Movement",
+    "chi_northwest": "Chicago Anarch Movement",
+    "chi_southshore": "Chicago Anarch Movement",
+    "chi_bridgeport": "Hecata Family",
+    "chi_littleitaly": "Hecata Family",
+    "chi_farsouth": "",
+    "chi_farnorth": ""
+  },
+  "regionClaimants": {
+    "chi_loop": ["Chicago Camarilla", "Chicago Anarch Movement"],
+    "chi_hydepark": ["Chicago Anarch Movement"]
+  },
+  "simulationRules": "CONSTITUTION OF PLAY — CHICAGO BY NIGHT (Vampire: The Masquerade, modern nights, March 2026).\n\nTHE MASQUERADE IS THE PRIME DIRECTIVE. Kindred exist only while mortals disbelieve in them. Any event that exposes vampirism to mortal witness — a drained corpse on camera, a feeding seen, footage that survives — MUST move Masquerade Integrity DOWN via impacts.worldStateOps, and any cover-up, misdirection or repair moves it back up. A night narrated with breaches and no Masquerade cost is invalid output.\n\nNO OPEN KINDRED WARFARE. Kindred do not march armies; they scheme. Territorial gains are made by court decree, negotiated cession, betrayal, and pressure — not by set-piece battles between coteries on street corners. Where force is needed, Kindred use PROXIES: mortal police, paid hitmen, unions, press, gangs — deniable mortal assets that keep claws off the record. Unit clashes should be rare, small, nocturnal, and usually leave mortal witnesses (and Masquerade costs) behind.\n\nFEEDING NEEDS GROUNDS. Every Kindred must feed; feeding grounds and herds are property and casus belli. Poaching another's territory is a tort the Harpy will hear about.\n\nDIABLERIE IS THE GRAVEST CRIME. Drinking a Kindred to ash — eating a soul — is punishable by final death. It is never mentioned in the open, but it is always on the table.\n\nTHE SECOND INQUISITION WATCHES. Special Affairs runs files on the city's Kindred. Inquisition Heat rises when agents get real leads (especially as Masquerade Integrity falls) and cools when trails go cold. At high Heat, expect raids, burns, and betrayals.\n\nTHE SUN AND THE FLAME. Sunlight, fire, and aggravated harm are how Kindred truly die. Beheadings and immolation end stories permanently — use final death rarely and only where the story has earned it.\n\nCOURT OFFICES HAVE TEETH. The Prince holds praxis and speaks for the city. The Sheriff investigates and enforces; the Scourge hunts the unauthorized; the Harpy's boons and slights are currency; the Keeper guards the Elysium — the neutral ground where violence is forbidden and court is held. A blood hunt may only be declared by the Prince, and it opens a Kindred to the whole city's fangs.\n\nMORTAL INSTITUTIONS ARE TERRAIN. The mayor, the cops, the FBI, the Archdiocese, the unions, the papers — they are moved, bought and fought over, but they are not Kindred and never act as Kindred. Mortal politics matter; mortal scrutiny kills.\n\nTHE REGIONS ARE DISTRICTS, THE CITIES ARE SITES. RegionTransfers move DISTRICTS (The Loop, Pilsen, Bridgeport, ...). MarkerOps place and remove SITES — a haven, an Elysium, a club, a funeral home, a chantry. A district changes hands when its court, baron or matriarch says it does — usually after leverage, not slaughter."
+  , "startingTimelineText": "CHICAGO, THE NIGHT OF MARCH 21, 2026. Fifty-one months of uneasy equilibrium. Since the Lake Treaty froze the lines — the Camarilla holding the gold coast and downtown, the Anarch Barons holding the south and west sides, the Hecata sitting funereal and patient on Bridgeport — the city has gone about its nightly business: feeding, scheming, and pretending the peace is permanent. It is not permanent. It is a held breath, and six things are about to let it out.\n\n1. THE COSTA MURDER. Maria Costa-Velazquez — Hecata kin, found drained and desecrated in a Camarilla district — has Donna Lucia's Family certain the killer wore the Prince's badge. Her vendetta is a lit fuse; the Family's restraint has a Sicilian deadline attached: Ambrogia is inbound, and her arrival means war whether Donna Lucia wants it or not.\n\n2. CARRUTH IS CLOSING. FBI Special Affairs agent Daniel Carruth has spent two years building a file on Chicago's Kindred, and Bridgeport — the Hecata's parish, where the dead do not stay quiet — is where his evidence is thickest. He is one subpoena from a task force.\n\n3. THE PRINCE'S SECRET. Maxwell Holloway-VanCort feels the Beckoning — the summons dragging elders east to die in a war older than the sects. He has told no one. Every week he resists, it costs him control of his own court, and Yates is standing right there, loyal and ambitious, close enough to catch praxis if it drops.\n\n4. QUINN IS ASKING QUESTIONS. A Chicago Sun-Times reporter named Quinn has been running property records, obituary anomalies and 911 ghost calls. The pattern is leading somewhere the Masquerade cannot survive. Whoever handles Quinn first — Prince, Baron, or Family — decides how.\n\n5. SOL'S TWENTY-THREE CARDS. Baron Sol has twenty-three signed contingency-card blanks seeded across mortal Chicago — promises, bribes and knives for the night everything burns. The other Barons know the network exists; nobody but Sol knows where all the cards are planted.\n\n6. THE CHANTRY RITUAL. The Tremere chantry at the Whitford Institute is closed to visitors — something weeks-long and enormous is being worked inside its wards, and every Kindred in the city who felt the tremor in the blood wants to know what it is. The Tremere are not talking.\n\nNOW: the Lake Treaty renewal is imminent. The Loop sits unclaimed as Treaty ground — the Court and the Barons both claim it, and neither will concede. Whoever walks out of the renewal with the Loop, the Feeding Schedule, or the Scourge's leash will hold the next decade of Chicago. Whoever walks out exposed will meet the Second Inquisition."
+}
+

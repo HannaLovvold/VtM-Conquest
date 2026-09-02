@@ -1,0 +1,546 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "la_valley",
+    "name": "The San Fernando Valley",
+    "owner": "Los Angeles Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.65,
+       34.15
+      ],
+      [
+       -118.35,
+       34.15
+      ],
+      [
+       -118.35,
+       34.32
+      ],
+      [
+       -118.65,
+       34.32
+      ],
+      [
+       -118.65,
+       34.15
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "la_mountains",
+    "name": "The Santa Monica Mountains",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.95,
+       34.06
+      ],
+      [
+       -118.65,
+       34.06
+      ],
+      [
+       -118.65,
+       34.15
+      ],
+      [
+       -118.95,
+       34.15
+      ],
+      [
+       -118.95,
+       34.06
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "la_hollywood",
+    "name": "Hollywood",
+    "owner": "Los Angeles Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.42,
+       34.06
+      ],
+      [
+       -118.28,
+       34.06
+      ],
+      [
+       -118.28,
+       34.15
+      ],
+      [
+       -118.42,
+       34.15
+      ],
+      [
+       -118.42,
+       34.06
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "la_beverly",
+    "name": "Beverly Hills",
+    "owner": "Camarilla Holdouts",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Los Angeles Anarchs"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.45,
+       34.06
+      ],
+      [
+       -118.42,
+       34.06
+      ],
+      [
+       -118.42,
+       34.15
+      ],
+      [
+       -118.45,
+       34.15
+      ],
+      [
+       -118.45,
+       34.06
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "la_westside",
+    "name": "Silicon Beach & the Westside",
+    "owner": "Los Angeles Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.55,
+       33.96
+      ],
+      [
+       -118.42,
+       33.96
+      ],
+      [
+       -118.42,
+       34.06
+      ],
+      [
+       -118.55,
+       34.06
+      ],
+      [
+       -118.55,
+       33.96
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "la_koreatown",
+    "name": "Koreatown & Mid-City",
+    "owner": "Los Angeles Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.35,
+       34.02
+      ],
+      [
+       -118.28,
+       34.02
+      ],
+      [
+       -118.28,
+       34.06
+      ],
+      [
+       -118.35,
+       34.06
+      ],
+      [
+       -118.35,
+       34.02
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "la_downtown",
+    "name": "Downtown",
+    "owner": "Los Angeles Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.28,
+       34.02
+      ],
+      [
+       -118.2,
+       34.02
+      ],
+      [
+       -118.2,
+       34.08
+      ],
+      [
+       -118.28,
+       34.08
+      ],
+      [
+       -118.28,
+       34.02
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "la_eastside",
+    "name": "The Eastside",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Los Angeles Anarchs"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.2,
+       34.02
+      ],
+      [
+       -118.13,
+       34.02
+      ],
+      [
+       -118.13,
+       34.08
+      ],
+      [
+       -118.2,
+       34.08
+      ],
+      [
+       -118.2,
+       34.02
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "la_southcentral",
+    "name": "South Central & Watts",
+    "owner": "Los Angeles Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.35,
+       33.92
+      ],
+      [
+       -118.24,
+       33.92
+      ],
+      [
+       -118.24,
+       34.02
+      ],
+      [
+       -118.35,
+       34.02
+      ],
+      [
+       -118.35,
+       33.92
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "la_southbay",
+    "name": "The South Bay",
+    "owner": "Los Angeles Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.42,
+       33.84
+      ],
+      [
+       -118.28,
+       33.84
+      ],
+      [
+       -118.28,
+       33.92
+      ],
+      [
+       -118.42,
+       33.92
+      ],
+      [
+       -118.42,
+       33.84
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "la_longbeach",
+    "name": "Long Beach & the Port",
+    "owner": "Los Angeles Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.28,
+       33.74
+      ],
+      [
+       -118.14,
+       33.74
+      ],
+      [
+       -118.14,
+       33.92
+      ],
+      [
+       -118.28,
+       33.92
+      ],
+      [
+       -118.28,
+       33.74
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "la_pasadena",
+    "name": "Pasadena & the San Gabriels",
+    "owner": "Camarilla Holdouts",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Los Angeles Anarchs"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.2,
+       34.08
+      ],
+      [
+       -118.08,
+       34.08
+      ],
+      [
+       -118.08,
+       34.18
+      ],
+      [
+       -118.2,
+       34.18
+      ],
+      [
+       -118.2,
+       34.08
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "la_antelope",
+    "name": "The Antelope Valley & the Mojave Corridor",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.35,
+       34.18
+      ],
+      [
+       -118.05,
+       34.18
+      ],
+      [
+       -118.05,
+       34.32
+      ],
+      [
+       -118.35,
+       34.32
+      ],
+      [
+       -118.35,
+       34.18
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "la_southcounty",
+    "name": "The South Coast",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -118.14,
+       33.6
+      ],
+      [
+       -117.75,
+       33.6
+      ],
+      [
+       -117.75,
+       33.8
+      ],
+      [
+       -118.14,
+       33.8
+      ],
+      [
+       -118.14,
+       33.6
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

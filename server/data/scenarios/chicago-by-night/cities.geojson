@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Palmer House",
+    "tier": 4,
+    "population": 960000,
+    "capital": "primary"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6268,
+     41.881
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Auditorium Theatre",
+    "tier": 3,
+    "population": 800000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6247,
+     41.8759
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Wrigley Field",
+    "tier": 3,
+    "population": 750000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6557,
+     41.944
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Newberry Library",
+    "tier": 2,
+    "population": 500000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6293,
+     41.9017
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Whitford Institute",
+    "tier": 2,
+    "population": 450000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6155,
+     41.8965
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "FBI Special Affairs Office",
+    "tier": 2,
+    "population": 400000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.625,
+     41.878
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Costa Funeral Services",
+    "tier": 2,
+    "population": 350000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.635,
+     41.845
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "La Catrina",
+    "tier": 2,
+    "population": 300000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.63,
+     41.862
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Glass Door",
+    "tier": 1,
+    "population": 150000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.679,
+     41.902
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Sol's 19th & Damen Haven",
+    "tier": 1,
+    "population": 120000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.676,
+     41.858
+    ]
+   }
+  }
+ ]
+}

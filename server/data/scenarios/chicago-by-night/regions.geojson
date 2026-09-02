@@ -1,0 +1,644 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "chi_loop",
+    "name": "The Loop",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Chicago Camarilla",
+     "Chicago Anarch Movement"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -87.636,
+       41.874
+      ],
+      [
+       -87.618,
+       41.874
+      ],
+      [
+       -87.612,
+       41.881
+      ],
+      [
+       -87.607,
+       41.887
+      ],
+      [
+       -87.614,
+       41.893
+      ],
+      [
+       -87.63,
+       41.893
+      ],
+      [
+       -87.636,
+       41.884
+      ],
+      [
+       -87.636,
+       41.874
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "chi_rivernorth",
+    "name": "River North & West Loop",
+    "owner": "Chicago Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -87.636,
+       41.874
+      ],
+      [
+       -87.67,
+       41.874
+      ],
+      [
+       -87.672,
+       41.89
+      ],
+      [
+       -87.665,
+       41.898
+      ],
+      [
+       -87.648,
+       41.898
+      ],
+      [
+       -87.636,
+       41.89
+      ],
+      [
+       -87.636,
+       41.874
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "chi_goldcoast",
+    "name": "Gold Coast & North Side",
+    "owner": "Chicago Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -87.614,
+       41.893
+      ],
+      [
+       -87.63,
+       41.893
+      ],
+      [
+       -87.634,
+       41.905
+      ],
+      [
+       -87.638,
+       41.925
+      ],
+      [
+       -87.646,
+       41.945
+      ],
+      [
+       -87.7,
+       41.945
+      ],
+      [
+       -87.7,
+       41.905
+      ],
+      [
+       -87.665,
+       41.898
+      ],
+      [
+       -87.648,
+       41.898
+      ],
+      [
+       -87.63,
+       41.896
+      ],
+      [
+       -87.614,
+       41.893
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "chi_hydepark",
+    "name": "Hyde Park & University",
+    "owner": "Chicago Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Chicago Anarch Movement"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -87.606,
+       41.794
+      ],
+      [
+       -87.594,
+       41.798
+      ],
+      [
+       -87.591,
+       41.808
+      ],
+      [
+       -87.61,
+       41.812
+      ],
+      [
+       -87.618,
+       41.802
+      ],
+      [
+       -87.614,
+       41.795
+      ],
+      [
+       -87.606,
+       41.794
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "chi_pilsen",
+    "name": "Pilsen",
+    "owner": "Chicago Anarch Movement",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -87.64,
+       41.857
+      ],
+      [
+       -87.64,
+       41.87
+      ],
+      [
+       -87.636,
+       41.874
+      ],
+      [
+       -87.618,
+       41.874
+      ],
+      [
+       -87.61,
+       41.866
+      ],
+      [
+       -87.608,
+       41.857
+      ],
+      [
+       -87.64,
+       41.857
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "chi_littlevillage",
+    "name": "Little Village",
+    "owner": "Chicago Anarch Movement",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -87.735,
+       41.844
+      ],
+      [
+       -87.685,
+       41.844
+      ],
+      [
+       -87.685,
+       41.872
+      ],
+      [
+       -87.735,
+       41.872
+      ],
+      [
+       -87.735,
+       41.844
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "chi_northwest",
+    "name": "Northwest Side",
+    "owner": "Chicago Anarch Movement",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -87.672,
+       41.878
+      ],
+      [
+       -87.672,
+       41.905
+      ],
+      [
+       -87.7,
+       41.905
+      ],
+      [
+       -87.7,
+       41.945
+      ],
+      [
+       -87.742,
+       41.945
+      ],
+      [
+       -87.75,
+       41.92
+      ],
+      [
+       -87.745,
+       41.885
+      ],
+      [
+       -87.735,
+       41.872
+      ],
+      [
+       -87.685,
+       41.872
+      ],
+      [
+       -87.68,
+       41.874
+      ],
+      [
+       -87.672,
+       41.878
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "chi_southshore",
+    "name": "South Shore",
+    "owner": "Chicago Anarch Movement",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -87.61,
+       41.752
+      ],
+      [
+       -87.58,
+       41.756
+      ],
+      [
+       -87.576,
+       41.79
+      ],
+      [
+       -87.591,
+       41.808
+      ],
+      [
+       -87.61,
+       41.812
+      ],
+      [
+       -87.614,
+       41.795
+      ],
+      [
+       -87.612,
+       41.77
+      ],
+      [
+       -87.61,
+       41.752
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "chi_bridgeport",
+    "name": "Bridgeport",
+    "owner": "Hecata Family",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -87.61,
+       41.83
+      ],
+      [
+       -87.608,
+       41.857
+      ],
+      [
+       -87.64,
+       41.857
+      ],
+      [
+       -87.642,
+       41.845
+      ],
+      [
+       -87.634,
+       41.832
+      ],
+      [
+       -87.61,
+       41.83
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "chi_littleitaly",
+    "name": "Little Italy & Tri-Taylor",
+    "owner": "Hecata Family",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -87.64,
+       41.857
+      ],
+      [
+       -87.64,
+       41.87
+      ],
+      [
+       -87.636,
+       41.874
+      ],
+      [
+       -87.636,
+       41.89
+      ],
+      [
+       -87.648,
+       41.898
+      ],
+      [
+       -87.665,
+       41.898
+      ],
+      [
+       -87.672,
+       41.89
+      ],
+      [
+       -87.672,
+       41.878
+      ],
+      [
+       -87.685,
+       41.872
+      ],
+      [
+       -87.685,
+       41.86
+      ],
+      [
+       -87.66,
+       41.857
+      ],
+      [
+       -87.64,
+       41.857
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "chi_farsouth",
+    "name": "Far South Side",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -87.61,
+       41.752
+      ],
+      [
+       -87.612,
+       41.77
+      ],
+      [
+       -87.614,
+       41.795
+      ],
+      [
+       -87.618,
+       41.802
+      ],
+      [
+       -87.622,
+       41.808
+      ],
+      [
+       -87.64,
+       41.812
+      ],
+      [
+       -87.65,
+       41.78
+      ],
+      [
+       -87.68,
+       41.75
+      ],
+      [
+       -87.69,
+       41.7
+      ],
+      [
+       -87.7,
+       41.665
+      ],
+      [
+       -87.65,
+       41.66
+      ],
+      [
+       -87.62,
+       41.7
+      ],
+      [
+       -87.612,
+       41.73
+      ],
+      [
+       -87.61,
+       41.752
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "chi_farnorth",
+    "name": "Far North Side",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -87.646,
+       41.945
+      ],
+      [
+       -87.7,
+       41.945
+      ],
+      [
+       -87.735,
+       41.95
+      ],
+      [
+       -87.72,
+       41.995
+      ],
+      [
+       -87.672,
+       41.995
+      ],
+      [
+       -87.66,
+       41.968
+      ],
+      [
+       -87.638,
+       41.952
+      ],
+      [
+       -87.646,
+       41.945
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

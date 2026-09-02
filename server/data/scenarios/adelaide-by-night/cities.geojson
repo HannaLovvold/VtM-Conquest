@@ -1,0 +1,216 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Octavia's Mansion",
+    "tier": 4,
+    "population": 800000,
+    "capital": "primary"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.598,
+     -34.9105
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Adelaide Town Hall",
+    "tier": 4,
+    "population": 780000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.6007,
+     -34.9285
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Adelaide Festival Centre",
+    "tier": 3,
+    "population": 720000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.5975,
+     -34.9195
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Government House",
+    "tier": 3,
+    "population": 700000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.5995,
+     -34.9225
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "State Library of South Australia",
+    "tier": 3,
+    "population": 680000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.5985,
+     -34.9215
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Drummond Institute",
+    "tier": 2,
+    "population": 520000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.6075,
+     -34.9205
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Newmarket Hotel",
+    "tier": 2,
+    "population": 480000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.6045,
+     -34.9095
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Magill Road Chantry",
+    "tier": 2,
+    "population": 500000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.628,
+     -34.9209
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Port Adelaide Lighthouse",
+    "tier": 2,
+    "population": 420000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.5025,
+     -34.8465
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Glenelg Jetty",
+    "tier": 2,
+    "population": 400000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.5125,
+     -34.9805
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Mount Lofty Summit",
+    "tier": 2,
+    "population": 350000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.7065,
+     -34.9765
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Bridgewater Farmhouse",
+    "tier": 1,
+    "population": 200000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.7425,
+     -35.0045
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Hahndorf",
+    "tier": 2,
+    "population": 380000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.813,
+     -35.031
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Tanunda",
+    "tier": 1,
+    "population": 180000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.957,
+     -34.522
+    ]
+   }
+  }
+ ]
+}
