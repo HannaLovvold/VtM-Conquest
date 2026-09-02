@@ -1,0 +1,559 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nyc_lower",
+    "name": "Lower Manhattan & Wall Street",
+    "owner": "New York Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -74.03,
+       40.68
+      ],
+      [
+       -73.98,
+       40.68
+      ],
+      [
+       -73.98,
+       40.735
+      ],
+      [
+       -74.03,
+       40.735
+      ],
+      [
+       -74.03,
+       40.68
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nyc_midtown",
+    "name": "Midtown & the Princely Seat",
+    "owner": "New York Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -74.03,
+       40.735
+      ],
+      [
+       -73.975,
+       40.735
+      ],
+      [
+       -73.975,
+       40.775
+      ],
+      [
+       -74.03,
+       40.775
+      ],
+      [
+       -74.03,
+       40.735
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nyc_ues",
+    "name": "The Upper East Side",
+    "owner": "Hecata Manhattan Branch",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "New York Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.975,
+       40.745
+      ],
+      [
+       -73.93,
+       40.745
+      ],
+      [
+       -73.93,
+       40.785
+      ],
+      [
+       -73.975,
+       40.785
+      ],
+      [
+       -73.975,
+       40.745
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nyc_uws",
+    "name": "The Upper West Side",
+    "owner": "New York Tremere Remnants",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "New York Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -74.03,
+       40.775
+      ],
+      [
+       -73.975,
+       40.775
+      ],
+      [
+       -73.975,
+       40.82
+      ],
+      [
+       -74.03,
+       40.82
+      ],
+      [
+       -74.03,
+       40.775
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nyc_harlem",
+    "name": "Harlem & Upper Manhattan",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.975,
+       40.785
+      ],
+      [
+       -73.91,
+       40.785
+      ],
+      [
+       -73.91,
+       40.85
+      ],
+      [
+       -73.975,
+       40.85
+      ],
+      [
+       -73.975,
+       40.785
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nyc_sbronx",
+    "name": "The South Bronx",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "New York Camarilla",
+     "The Sabbat Remnants"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.91,
+       40.795
+      ],
+      [
+       -73.84,
+       40.795
+      ],
+      [
+       -73.84,
+       40.84
+      ],
+      [
+       -73.91,
+       40.84
+      ],
+      [
+       -73.91,
+       40.795
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nyc_nbronx",
+    "name": "The North Bronx",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.91,
+       40.84
+      ],
+      [
+       -73.83,
+       40.84
+      ],
+      [
+       -73.83,
+       40.9
+      ],
+      [
+       -73.91,
+       40.9
+      ],
+      [
+       -73.91,
+       40.84
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nyc_greenpoint",
+    "name": "Greenpoint & the Industrial Waterfront",
+    "owner": "The Sabbat Remnants",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "New York Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.98,
+       40.7
+      ],
+      [
+       -73.925,
+       40.7
+      ],
+      [
+       -73.925,
+       40.735
+      ],
+      [
+       -73.98,
+       40.735
+      ],
+      [
+       -73.98,
+       40.7
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nyc_wburg",
+    "name": "Williamsburg-Bushwick",
+    "owner": "New York Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "New York Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.98,
+       40.665
+      ],
+      [
+       -73.925,
+       40.665
+      ],
+      [
+       -73.925,
+       40.7
+      ],
+      [
+       -73.98,
+       40.7
+      ],
+      [
+       -73.98,
+       40.665
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nyc_crownheights",
+    "name": "Crown Heights & Flatbush",
+    "owner": "New York Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "New York Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.975,
+       40.63
+      ],
+      [
+       -73.905,
+       40.63
+      ],
+      [
+       -73.905,
+       40.665
+      ],
+      [
+       -73.975,
+       40.665
+      ],
+      [
+       -73.975,
+       40.63
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nyc_southbrooklyn",
+    "name": "Bay Ridge & Southern Brooklyn",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -74.0,
+       40.575
+      ],
+      [
+       -73.93,
+       40.575
+      ],
+      [
+       -73.93,
+       40.63
+      ],
+      [
+       -74.0,
+       40.63
+      ],
+      [
+       -74.0,
+       40.575
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nyc_astoria",
+    "name": "Astoria & Long Island City",
+    "owner": "New York Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "New York Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.92,
+       40.75
+      ],
+      [
+       -73.86,
+       40.75
+      ],
+      [
+       -73.86,
+       40.785
+      ],
+      [
+       -73.92,
+       40.785
+      ],
+      [
+       -73.92,
+       40.75
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nyc_queens",
+    "name": "Flushing & Eastern Queens",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -73.86,
+       40.65
+      ],
+      [
+       -73.7,
+       40.65
+      ],
+      [
+       -73.7,
+       40.795
+      ],
+      [
+       -73.86,
+       40.795
+      ],
+      [
+       -73.86,
+       40.65
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "nyc_staten",
+    "name": "Staten Island",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -74.15,
+       40.5
+      ],
+      [
+       -74.05,
+       40.5
+      ],
+      [
+       -74.05,
+       40.65
+      ],
+      [
+       -74.15,
+       40.65
+      ],
+      [
+       -74.15,
+       40.5
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

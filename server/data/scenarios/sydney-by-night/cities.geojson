@@ -1,0 +1,216 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The InterContinental",
+    "tier": 4,
+    "population": 1000000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.211,
+     -33.8664
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Sydney Opera House",
+    "tier": 4,
+    "population": 980000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.2153,
+     -33.8568
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Vaucluse Mansion",
+    "tier": 4,
+    "population": 950000,
+    "capital": "primary"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.279,
+     -33.851
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "State Library of New South Wales",
+    "tier": 3,
+    "population": 900000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.2132,
+     -33.8687
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Royal Botanic Gardens",
+    "tier": 3,
+    "population": 880000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.2185,
+     -33.864
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Central Station",
+    "tier": 3,
+    "population": 820000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.2062,
+     -33.883
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Bellevue Hill Residence",
+    "tier": 2,
+    "population": 520000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.26,
+     -33.88
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Parramatta",
+    "tier": 2,
+    "population": 560000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.005,
+     -33.813
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Newtown Chantry",
+    "tier": 2,
+    "population": 480000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.18,
+     -33.895
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Taronga Zoo",
+    "tier": 2,
+    "population": 460000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.2407,
+     -33.8438
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "AFP Twilight Project Cell",
+    "tier": 2,
+    "population": 430000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.209,
+     -33.873
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Golden Century",
+    "tier": 2,
+    "population": 400000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.2042,
+     -33.8771
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Manly",
+    "tier": 2,
+    "population": 380000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.283,
+     -33.797
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Campbelltown",
+    "tier": 1,
+    "population": 220000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.815,
+     -34.065
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,602 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "mel_cbd",
+    "name": "CBD & East Melbourne",
+    "owner": "Melbourne Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       144.948,
+       -37.832
+      ],
+      [
+       144.95,
+       -37.8
+      ],
+      [
+       145.0,
+       -37.795
+      ],
+      [
+       145.0,
+       -37.83
+      ],
+      [
+       144.975,
+       -37.84
+      ],
+      [
+       144.948,
+       -37.832
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "mel_carlton",
+    "name": "Carlton & Parkville",
+    "owner": "Melbourne Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       144.95,
+       -37.8
+      ],
+      [
+       144.975,
+       -37.7975
+      ],
+      [
+       144.978,
+       -37.782
+      ],
+      [
+       144.955,
+       -37.782
+      ],
+      [
+       144.95,
+       -37.8
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "mel_carltonnorth",
+    "name": "Carlton North & Princes Hill",
+    "owner": "Calabria-Hecata Family",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       144.955,
+       -37.782
+      ],
+      [
+       144.978,
+       -37.782
+      ],
+      [
+       144.982,
+       -37.77
+      ],
+      [
+       144.955,
+       -37.77
+      ],
+      [
+       144.955,
+       -37.782
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "mel_fitzroy",
+    "name": "Fitzroy & Collingwood",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Melbourne Camarilla",
+     "Footscray Anarchs"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       144.982,
+       -37.7968
+      ],
+      [
+       145.0,
+       -37.795
+      ],
+      [
+       145.008,
+       -37.78
+      ],
+      [
+       144.998,
+       -37.771
+      ],
+      [
+       144.99,
+       -37.771
+      ],
+      [
+       144.982,
+       -37.78
+      ],
+      [
+       144.982,
+       -37.7968
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "mel_toorak",
+    "name": "Toorak & South Yarra",
+    "owner": "Melbourne Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       145.003,
+       -37.844
+      ],
+      [
+       145.006,
+       -37.818
+      ],
+      [
+       145.025,
+       -37.815
+      ],
+      [
+       145.028,
+       -37.842
+      ],
+      [
+       145.01,
+       -37.85
+      ],
+      [
+       145.003,
+       -37.844
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "mel_stkilda",
+    "name": "St Kilda & the Bayside",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       144.938,
+       -37.836
+      ],
+      [
+       144.975,
+       -37.842
+      ],
+      [
+       144.99,
+       -37.838
+      ],
+      [
+       145.005,
+       -37.875
+      ],
+      [
+       144.985,
+       -37.925
+      ],
+      [
+       144.945,
+       -37.915
+      ],
+      [
+       144.938,
+       -37.836
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "mel_royalpark",
+    "name": "North Melbourne & Royal Park",
+    "owner": "Royal Park Sept",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       144.905,
+       -37.832
+      ],
+      [
+       144.905,
+       -37.768
+      ],
+      [
+       144.94,
+       -37.765
+      ],
+      [
+       144.94,
+       -37.77
+      ],
+      [
+       144.952,
+       -37.772
+      ],
+      [
+       144.955,
+       -37.782
+      ],
+      [
+       144.95,
+       -37.8
+      ],
+      [
+       144.948,
+       -37.832
+      ],
+      [
+       144.905,
+       -37.832
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "mel_brunswick",
+    "name": "Brunswick & Coburg",
+    "owner": "Footscray Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       144.94,
+       -37.77
+      ],
+      [
+       144.981,
+       -37.77
+      ],
+      [
+       144.985,
+       -37.715
+      ],
+      [
+       144.94,
+       -37.715
+      ],
+      [
+       144.94,
+       -37.77
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "mel_footscray",
+    "name": "Footscray & the Inner West",
+    "owner": "Footscray Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       144.795,
+       -37.838
+      ],
+      [
+       144.795,
+       -37.778
+      ],
+      [
+       144.905,
+       -37.775
+      ],
+      [
+       144.905,
+       -37.832
+      ],
+      [
+       144.86,
+       -37.845
+      ],
+      [
+       144.795,
+       -37.838
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "mel_west",
+    "name": "Werribee & the Outer West",
+    "owner": "Royal Park Sept",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Footscray Anarchs"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       144.4,
+       -37.955
+      ],
+      [
+       144.4,
+       -37.79
+      ],
+      [
+       144.62,
+       -37.772
+      ],
+      [
+       144.795,
+       -37.778
+      ],
+      [
+       144.795,
+       -37.838
+      ],
+      [
+       144.76,
+       -37.94
+      ],
+      [
+       144.4,
+       -37.955
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "mel_north",
+    "name": "The Northern Fringe & Kinglake",
+    "owner": "Royal Park Sept",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       144.91,
+       -37.715
+      ],
+      [
+       144.985,
+       -37.715
+      ],
+      [
+       144.985,
+       -37.77
+      ],
+      [
+       145.05,
+       -37.77
+      ],
+      [
+       145.28,
+       -37.74
+      ],
+      [
+       145.34,
+       -37.62
+      ],
+      [
+       145.28,
+       -37.5
+      ],
+      [
+       145.05,
+       -37.52
+      ],
+      [
+       144.98,
+       -37.58
+      ],
+      [
+       144.91,
+       -37.65
+      ],
+      [
+       144.91,
+       -37.715
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "mel_east",
+    "name": "Box Hill & the Eastern Suburbs",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       145.05,
+       -37.77
+      ],
+      [
+       145.28,
+       -37.74
+      ],
+      [
+       145.33,
+       -37.81
+      ],
+      [
+       145.29,
+       -37.868
+      ],
+      [
+       145.1,
+       -37.868
+      ],
+      [
+       145.048,
+       -37.845
+      ],
+      [
+       145.05,
+       -37.77
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "mel_dandenongs",
+    "name": "The Dandenongs",
+    "owner": "Royal Park Sept",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       145.1,
+       -37.868
+      ],
+      [
+       145.29,
+       -37.868
+      ],
+      [
+       145.4,
+       -37.8
+      ],
+      [
+       145.48,
+       -37.9
+      ],
+      [
+       145.42,
+       -37.97
+      ],
+      [
+       145.25,
+       -37.98
+      ],
+      [
+       145.1,
+       -37.945
+      ],
+      [
+       145.1,
+       -37.868
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

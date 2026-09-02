@@ -1,0 +1,514 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "lon_kensington",
+    "name": "Kensington & Chelsea",
+    "owner": "London Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -0.26,
+       51.47
+      ],
+      [
+       -0.2,
+       51.47
+      ],
+      [
+       -0.2,
+       51.535
+      ],
+      [
+       -0.26,
+       51.535
+      ],
+      [
+       -0.26,
+       51.47
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "lon_westminster",
+    "name": "Westminster & the Princely Seat",
+    "owner": "London Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -0.2,
+       51.485
+      ],
+      [
+       -0.12,
+       51.485
+      ],
+      [
+       -0.12,
+       51.535
+      ],
+      [
+       -0.2,
+       51.535
+      ],
+      [
+       -0.2,
+       51.485
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "lon_west",
+    "name": "Ealing & the Western Suburbs",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -0.35,
+       51.46
+      ],
+      [
+       -0.26,
+       51.46
+      ],
+      [
+       -0.26,
+       51.56
+      ],
+      [
+       -0.35,
+       51.56
+      ],
+      [
+       -0.35,
+       51.46
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "lon_city",
+    "name": "The City of London",
+    "owner": "London Camarilla",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -0.12,
+       51.505
+      ],
+      [
+       -0.075,
+       51.505
+      ],
+      [
+       -0.075,
+       51.525
+      ],
+      [
+       -0.12,
+       51.525
+      ],
+      [
+       -0.12,
+       51.505
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "lon_camden",
+    "name": "Camden & Bloomsbury",
+    "owner": "London Tremere Remnants",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "London Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -0.2,
+       51.535
+      ],
+      [
+       -0.13,
+       51.535
+      ],
+      [
+       -0.13,
+       51.565
+      ],
+      [
+       -0.2,
+       51.565
+      ],
+      [
+       -0.2,
+       51.535
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "lon_islington",
+    "name": "Islington & Finsbury",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -0.12,
+       51.525
+      ],
+      [
+       -0.09,
+       51.525
+      ],
+      [
+       -0.09,
+       51.565
+      ],
+      [
+       -0.12,
+       51.565
+      ],
+      [
+       -0.12,
+       51.525
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "lon_whitechapel",
+    "name": "Whitechapel & Tower Hamlets",
+    "owner": "Hecata Whitechapel Branch",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "London Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -0.075,
+       51.505
+      ],
+      [
+       -0.02,
+       51.505
+      ],
+      [
+       -0.02,
+       51.53
+      ],
+      [
+       -0.075,
+       51.53
+      ],
+      [
+       -0.075,
+       51.505
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "lon_hackney",
+    "name": "Hackney",
+    "owner": "London Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "London Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -0.09,
+       51.53
+      ],
+      [
+       -0.02,
+       51.53
+      ],
+      [
+       -0.02,
+       51.565
+      ],
+      [
+       -0.09,
+       51.565
+      ],
+      [
+       -0.09,
+       51.53
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "lon_newham",
+    "name": "Newham & the Royal Docks",
+    "owner": "London Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "London Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -0.02,
+       51.5
+      ],
+      [
+       0.03,
+       51.5
+      ],
+      [
+       0.03,
+       51.545
+      ],
+      [
+       -0.02,
+       51.545
+      ],
+      [
+       -0.02,
+       51.5
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "lon_southwark",
+    "name": "Southwark & Bermondsey",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -0.12,
+       51.47
+      ],
+      [
+       -0.05,
+       51.47
+      ],
+      [
+       -0.05,
+       51.505
+      ],
+      [
+       -0.12,
+       51.505
+      ],
+      [
+       -0.12,
+       51.47
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "lon_brixton",
+    "name": "Brixton & Lambeth",
+    "owner": "London Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "London Camarilla"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -0.15,
+       51.42
+      ],
+      [
+       -0.05,
+       51.42
+      ],
+      [
+       -0.05,
+       51.47
+      ],
+      [
+       -0.15,
+       51.47
+      ],
+      [
+       -0.15,
+       51.42
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "lon_north",
+    "name": "Barnet & the Northern Heights",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -0.2,
+       51.565
+      ],
+      [
+       -0.09,
+       51.565
+      ],
+      [
+       -0.09,
+       51.64
+      ],
+      [
+       -0.2,
+       51.64
+      ],
+      [
+       -0.2,
+       51.565
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "lon_south",
+    "name": "Croydon & the Southern Reaches",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -0.15,
+       51.33
+      ],
+      [
+       -0.05,
+       51.33
+      ],
+      [
+       -0.05,
+       51.42
+      ],
+      [
+       -0.15,
+       51.42
+      ],
+      [
+       -0.15,
+       51.33
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

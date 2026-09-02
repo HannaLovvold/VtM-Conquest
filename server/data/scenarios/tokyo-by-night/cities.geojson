@@ -1,0 +1,216 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Concordat Registry",
+    "tier": 4,
+    "population": 100,
+    "capital": "primary"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7255,
+     35.6255
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Roppongi Hills",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7355,
+     35.6555
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Tokyo Metro Vaults",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7455,
+     35.6655
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Kasumigaseki Government Quarter",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7255,
+     35.6955
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Bank of Japan",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7755,
+     35.6855
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Akihabara Electric Town",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7955,
+     35.6755
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Kabukich\u014d",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6955,
+     35.6955
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Mosque Quarter",
+    "tier": 2,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6755,
+     35.6855
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Shibuya Crossing",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6655,
+     35.6255
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Sens\u014d-ji Temple",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7255,
+     35.7455
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Ginza Six",
+    "tier": 3,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7755,
+     35.6255
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Shinagawa Station Yards",
+    "tier": 2,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.7755,
+     35.5755
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Yokohama Harbour",
+    "tier": 2,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5555,
+     35.5455
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Mount Takao Shrines",
+    "tier": 1,
+    "population": 100
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.4555,
+     35.6755
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,729 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "syd_cbd",
+    "name": "CBD & The Rocks",
+    "owner": "Sydney Independent",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       151.186,
+       -33.857
+      ],
+      [
+       151.21,
+       -33.851
+      ],
+      [
+       151.22,
+       -33.855
+      ],
+      [
+       151.22,
+       -33.876
+      ],
+      [
+       151.186,
+       -33.876
+      ],
+      [
+       151.186,
+       -33.857
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "syd_chinatown",
+    "name": "Chinatown & Central",
+    "owner": "Sydney Independent",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       151.197,
+       -33.876
+      ],
+      [
+       151.213,
+       -33.876
+      ],
+      [
+       151.213,
+       -33.893
+      ],
+      [
+       151.197,
+       -33.893
+      ],
+      [
+       151.197,
+       -33.876
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "syd_cross",
+    "name": "Kings Cross & the Inner East",
+    "owner": "Sydney Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Sydney Independent"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       151.22,
+       -33.876
+      ],
+      [
+       151.236,
+       -33.876
+      ],
+      [
+       151.236,
+       -33.86
+      ],
+      [
+       151.227,
+       -33.852
+      ],
+      [
+       151.22,
+       -33.855
+      ],
+      [
+       151.22,
+       -33.876
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "syd_east",
+    "name": "Vaucluse & the Eastern Suburbs",
+    "owner": "Sydney Independent",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       151.236,
+       -33.876
+      ],
+      [
+       151.236,
+       -33.86
+      ],
+      [
+       151.265,
+       -33.845
+      ],
+      [
+       151.293,
+       -33.84
+      ],
+      [
+       151.283,
+       -33.885
+      ],
+      [
+       151.268,
+       -33.897
+      ],
+      [
+       151.248,
+       -33.897
+      ],
+      [
+       151.236,
+       -33.876
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "syd_innerwest",
+    "name": "Newtown & the Inner West",
+    "owner": "Sydney Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Sydney Independent"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       151.17,
+       -33.878
+      ],
+      [
+       151.186,
+       -33.876
+      ],
+      [
+       151.197,
+       -33.876
+      ],
+      [
+       151.197,
+       -33.893
+      ],
+      [
+       151.185,
+       -33.92
+      ],
+      [
+       151.155,
+       -33.918
+      ],
+      [
+       151.15,
+       -33.895
+      ],
+      [
+       151.17,
+       -33.878
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "syd_southwest",
+    "name": "Canterbury & Bankstown",
+    "owner": "Sydney Independent",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       151.213,
+       -33.897
+      ],
+      [
+       151.218,
+       -33.93
+      ],
+      [
+       151.17,
+       -33.94
+      ],
+      [
+       151.12,
+       -33.945
+      ],
+      [
+       151.06,
+       -33.938
+      ],
+      [
+       151.01,
+       -33.912
+      ],
+      [
+       151.04,
+       -33.895
+      ],
+      [
+       151.09,
+       -33.9
+      ],
+      [
+       151.14,
+       -33.905
+      ],
+      [
+       151.155,
+       -33.925
+      ],
+      [
+       151.185,
+       -33.928
+      ],
+      [
+       151.213,
+       -33.897
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "syd_north",
+    "name": "North Sydney & the Inner North",
+    "owner": "Sydney Anarchs",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Sydney Independent"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       151.175,
+       -33.845
+      ],
+      [
+       151.215,
+       -33.845
+      ],
+      [
+       151.215,
+       -33.78
+      ],
+      [
+       151.175,
+       -33.79
+      ],
+      [
+       151.175,
+       -33.845
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "syd_lownorth",
+    "name": "Mosman & the Lower North Shore",
+    "owner": "Sydney Independent",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       151.215,
+       -33.805
+      ],
+      [
+       151.25,
+       -33.8
+      ],
+      [
+       151.252,
+       -33.83
+      ],
+      [
+       151.24,
+       -33.85
+      ],
+      [
+       151.215,
+       -33.848
+      ],
+      [
+       151.215,
+       -33.805
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "syd_beaches",
+    "name": "Manly & the Northern Beaches",
+    "owner": "Continental Sept Council",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       151.252,
+       -33.83
+      ],
+      [
+       151.292,
+       -33.794
+      ],
+      [
+       151.308,
+       -33.77
+      ],
+      [
+       151.3,
+       -33.726
+      ],
+      [
+       151.272,
+       -33.73
+      ],
+      [
+       151.262,
+       -33.775
+      ],
+      [
+       151.25,
+       -33.8
+      ],
+      [
+       151.252,
+       -33.83
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "syd_wildnorth",
+    "name": "Ku-ring-gai & the Garou North",
+    "owner": "Continental Sept Council",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       151.175,
+       -33.79
+      ],
+      [
+       151.215,
+       -33.78
+      ],
+      [
+       151.25,
+       -33.8
+      ],
+      [
+       151.262,
+       -33.775
+      ],
+      [
+       151.272,
+       -33.73
+      ],
+      [
+       151.24,
+       -33.69
+      ],
+      [
+       151.15,
+       -33.64
+      ],
+      [
+       151.09,
+       -33.66
+      ],
+      [
+       151.07,
+       -33.7
+      ],
+      [
+       151.09,
+       -33.76
+      ],
+      [
+       151.12,
+       -33.79
+      ],
+      [
+       151.175,
+       -33.79
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "syd_parramatta",
+    "name": "Parramatta & Westmead",
+    "owner": "Sydney Independent",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       151.06,
+       -33.845
+      ],
+      [
+       151.06,
+       -33.79
+      ],
+      [
+       151.02,
+       -33.775
+      ],
+      [
+       150.96,
+       -33.78
+      ],
+      [
+       150.95,
+       -33.84
+      ],
+      [
+       150.99,
+       -33.855
+      ],
+      [
+       151.07,
+       -33.87
+      ],
+      [
+       151.06,
+       -33.845
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "syd_outerwest",
+    "name": "Blacktown & the Mountain Foothills",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land",
+    "claimants": [
+     "Continental Sept Council"
+    ]
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       150.95,
+       -33.77
+      ],
+      [
+       150.86,
+       -33.755
+      ],
+      [
+       150.64,
+       -33.745
+      ],
+      [
+       150.58,
+       -33.78
+      ],
+      [
+       150.62,
+       -33.87
+      ],
+      [
+       150.75,
+       -33.91
+      ],
+      [
+       150.9,
+       -33.89
+      ],
+      [
+       150.95,
+       -33.855
+      ],
+      [
+       150.95,
+       -33.77
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "syd_macarthur",
+    "name": "Macarthur & Campbelltown",
+    "owner": "Sydney Independent",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       150.94,
+       -33.97
+      ],
+      [
+       150.89,
+       -33.935
+      ],
+      [
+       150.81,
+       -33.94
+      ],
+      [
+       150.73,
+       -33.96
+      ],
+      [
+       150.68,
+       -34.01
+      ],
+      [
+       150.69,
+       -34.07
+      ],
+      [
+       150.76,
+       -34.1
+      ],
+      [
+       150.86,
+       -34.105
+      ],
+      [
+       150.93,
+       -34.075
+      ],
+      [
+       150.96,
+       -34.02
+      ],
+      [
+       150.94,
+       -33.97
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "syd_shire",
+    "name": "Sutherland & the Shire",
+    "owner": "",
+    "gid0": "",
+    "country": "",
+    "typeId": "land"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       151.232,
+       -33.94
+      ],
+      [
+       151.15,
+       -33.95
+      ],
+      [
+       151.055,
+       -33.96
+      ],
+      [
+       151.005,
+       -34.0
+      ],
+      [
+       151.0,
+       -34.07
+      ],
+      [
+       151.08,
+       -34.11
+      ],
+      [
+       151.14,
+       -34.11
+      ],
+      [
+       151.175,
+       -34.06
+      ],
+      [
+       151.19,
+       -34.0
+      ],
+      [
+       151.21,
+       -33.96
+      ],
+      [
+       151.232,
+       -33.94
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

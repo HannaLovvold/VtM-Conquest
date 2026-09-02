@@ -1,0 +1,216 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Palace of Westminster",
+    "tier": 4,
+    "population": 900000,
+    "capital": "primary"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.1245,
+     51.4995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Bank of England",
+    "tier": 4,
+    "population": 850000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.0885,
+     51.5145
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The London Chantry",
+    "tier": 3,
+    "population": 700000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.145,
+     51.545
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Tower of London",
+    "tier": 3,
+    "population": 750000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.055,
+     51.5085
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "St Paul's Cathedral",
+    "tier": 3,
+    "population": 800000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.0985,
+     51.5135
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Shard",
+    "tier": 3,
+    "population": 650000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.0875,
+     51.5045
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The British Museum",
+    "tier": 3,
+    "population": 720000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.135,
+     51.5395
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Ashcroft & Sons Funeral Directors",
+    "tier": 2,
+    "population": 480000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.065,
+     51.5175
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Hackney Empire",
+    "tier": 2,
+    "population": 420000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.055,
+     51.545
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Brixton Academy",
+    "tier": 2,
+    "population": 440000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.115,
+     51.465
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Kensington Palace",
+    "tier": 2,
+    "population": 400000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.1875,
+     51.5055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "ExCeL London",
+    "tier": 2,
+    "population": 350000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0255,
+     51.5085
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Alexandra Palace",
+    "tier": 1,
+    "population": 220000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.125,
+     51.6085
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Croydon Old Town",
+    "tier": 1,
+    "population": 180000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.0985,
+     51.3725
+    ]
+   }
+  }
+ ]
+}

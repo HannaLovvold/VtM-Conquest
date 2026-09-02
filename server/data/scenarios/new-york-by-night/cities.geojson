@@ -1,0 +1,216 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Grand Central Terminal",
+    "tier": 4,
+    "population": 900000,
+    "capital": "primary"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9775,
+     40.7525
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The New York Stock Exchange",
+    "tier": 4,
+    "population": 850000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0085,
+     40.707
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Metropolitan Museum of Art",
+    "tier": 3,
+    "population": 700000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9635,
+     40.7795
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Manhattan Chantry",
+    "tier": 3,
+    "population": 520000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9955,
+     40.7955
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Broadway Theatre District",
+    "tier": 3,
+    "population": 800000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9855,
+     40.7595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Greenpoint Industrial Waterfront",
+    "tier": 3,
+    "population": 380000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9555,
+     40.7225
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Marlowe & Sons Estate Services",
+    "tier": 2,
+    "population": 600000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9555,
+     40.7655
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Barclays Center",
+    "tier": 2,
+    "population": 650000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9755,
+     40.6825
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Astoria Studios",
+    "tier": 2,
+    "population": 450000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9155,
+     40.7575
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Yankee Stadium",
+    "tier": 2,
+    "population": 550000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9055,
+     40.8295
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "South Street Seaport",
+    "tier": 2,
+    "population": 400000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0045,
+     40.7065
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Kingston Avenue Strip",
+    "tier": 2,
+    "population": 360000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9355,
+     40.6615
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Flushing Meadows",
+    "tier": 1,
+    "population": 240000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.8355,
+     40.7425
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "St. George Terminal",
+    "tier": 1,
+    "population": 180000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0745,
+     40.6445
+    ]
+   }
+  }
+ ]
+}

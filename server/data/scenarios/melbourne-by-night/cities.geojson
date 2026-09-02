@@ -1,0 +1,201 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Hotel Windsor",
+    "tier": 4,
+    "population": 960000,
+    "capital": "primary"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9726,
+     -37.8139
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Melbourne Town Hall",
+    "tier": 3,
+    "population": 820000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9633,
+     -37.8146
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Flinders Street Station",
+    "tier": 3,
+    "population": 780000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9672,
+     -37.8183
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Royal Exhibition Building",
+    "tier": 3,
+    "population": 750000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9715,
+     -37.8047
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Drummond Institute",
+    "tier": 2,
+    "population": 520000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.97,
+     -37.792
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Calabria Family Funerals",
+    "tier": 2,
+    "population": 480000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.965,
+     -37.775
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "AFP Twilight Project Office",
+    "tier": 2,
+    "population": 430000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.935,
+     -37.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "The Espy",
+    "tier": 2,
+    "population": 400000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9718,
+     -37.8672
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Footscray Market",
+    "tier": 2,
+    "population": 360000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9005,
+     -37.7996
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Saigon Gallery",
+    "tier": 1,
+    "population": 200000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.902,
+     -37.802
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Luna Park",
+    "tier": 1,
+    "population": 170000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9763,
+     -37.8678
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Werribee Park",
+    "tier": 1,
+    "population": 150000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.66,
+     -37.905
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "city": "Kinglake",
+    "tier": 1,
+    "population": 120000
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.2,
+     -37.53
+    ]
+   }
+  }
+ ]
+}
